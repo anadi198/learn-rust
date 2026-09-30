@@ -1,5 +1,5 @@
 # Rust Lab has moved
 
-Rust Lab now lives at https://anadi198.github.io/rust/, as part of Deep End.
+Rust Lab now lives at https://anadi198.github.io/deep-end/rust/, as part of Deep End.
 
-The source, with its full history, is in the `rust/` folder of https://github.com/anadi198/anadi198.github.io. This repository only redirects the old address, and is archived.
+The source, with its full history, is in the `rust/` folder of https://github.com/anadi198/deep-end. This repository only redirects the old address, and is archived.
